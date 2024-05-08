@@ -1,1 +1,1 @@
-Good to meet you!
+Bertelsmann-Challenge-AI
