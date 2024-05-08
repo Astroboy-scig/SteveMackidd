@@ -1,2 +1,1 @@
-Bertelsmann-Challenge-AI
-Psychic-Game
+8QywP0Lup7s
