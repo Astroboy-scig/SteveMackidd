@@ -1,1 +1,1 @@
-SECTORSEVEN
+laptopprice
