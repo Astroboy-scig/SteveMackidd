@@ -1,1 +1,1 @@
-cs779
+mangalib-webextension
