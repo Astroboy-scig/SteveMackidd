@@ -1,1 +1,1 @@
-gnome-icon-theme-extras
+mVSkozPuNn
