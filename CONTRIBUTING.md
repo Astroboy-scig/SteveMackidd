@@ -1,2 +1,1 @@
-Vxa100
-It’s very nice to meet you.
+It was nice meeting you!
