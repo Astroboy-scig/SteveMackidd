@@ -1,2 +1,1 @@
-watchNOTIFY
-:astonished:
+It is fun chatting with you.
