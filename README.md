@@ -1,2 +1,0 @@
-DsSx
-:sneezing_face:
