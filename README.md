@@ -1,1 +1,1 @@
-Thanks for getting in touch!
+It’s lovely to meet you!
