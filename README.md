@@ -1,1 +1,1 @@
-How do you do?
+It was lovely meeting you.
