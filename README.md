@@ -1,2 +1,1 @@
-brick-kilns
-Great seeing you!
+It’s great connecting with you.
