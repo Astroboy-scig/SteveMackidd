@@ -1,2 +1,1 @@
-:worried:
-:kissing_heart:
+-cra-template-sls-redux-
