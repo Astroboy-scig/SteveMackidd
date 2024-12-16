@@ -1,1 +1,1 @@
-freetraining
+colorchat
