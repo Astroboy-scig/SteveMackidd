@@ -1,3 +1,1 @@
-2019-01-24
-saravjis_hut
-HELLOWORLD-MOY5
+WDIO_TEST1
