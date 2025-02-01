@@ -1,2 +1,1 @@
-1skE
-oer-servICE-CARD
+coursera_kaggle_competition
