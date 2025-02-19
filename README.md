@@ -1,2 +1,1 @@
-It is fun talking to you!
-MODini
+It was nice meeting you.
