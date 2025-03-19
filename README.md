@@ -1,1 +1,1 @@
-EQ0
+It was nice talking to you.
