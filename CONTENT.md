@@ -1,4 +1,1 @@
-:wink:
-Thank you for your visit!
-Glad to meet you.
-protodj
+Great interacting with you.
