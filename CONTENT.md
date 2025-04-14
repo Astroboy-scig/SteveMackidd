@@ -1,3 +1,1 @@
-JEYa5j3eHrn
-Select-previsao-ondaS
-:boom:
+It was lovely meeting you.
