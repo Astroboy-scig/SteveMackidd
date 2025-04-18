@@ -1,1 +1,1 @@
-Have a nice day!
+It is fun chatting with you.
