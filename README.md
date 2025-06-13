@@ -1,2 +1,1 @@
-study-group
-:yum:
+I’ve enjoyed meeting you!
