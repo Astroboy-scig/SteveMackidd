@@ -1,1 +1,2 @@
 SuDK3Em8d3l
+kicad_liberator
