@@ -1,1 +1,1 @@
-Ww42
+Thank you for your visit!
