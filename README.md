@@ -1,1 +1,1 @@
-Standard-Genetic-Programming
+sinusoidal
