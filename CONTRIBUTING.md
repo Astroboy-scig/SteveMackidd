@@ -1,1 +1,1 @@
-60hz
+YCrxMQGYmfq
