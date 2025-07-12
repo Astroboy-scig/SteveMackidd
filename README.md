@@ -1,2 +1,0 @@
-dcnBwBYuTT
-:grimacing:
