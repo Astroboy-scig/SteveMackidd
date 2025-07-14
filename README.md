@@ -1,3 +1,1 @@
-F9dRfJi
-It’s lovely to meet you!
-NON-REPLICATed-blockchain
+It was lovely meeting you.
