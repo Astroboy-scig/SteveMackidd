@@ -1,2 +1,0 @@
-silderBar
-diamondback-shimano
