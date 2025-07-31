@@ -1,1 +1,2 @@
 FQKXEmjYWQl
+my-new-app
