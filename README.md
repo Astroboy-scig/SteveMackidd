@@ -1,2 +1,1 @@
-It is fun chatting with you.
-:smirk:
+I’m looking forward to working with you.
