@@ -1,2 +1,1 @@
-F77nSy
-:bomb:
+studious-couscous
