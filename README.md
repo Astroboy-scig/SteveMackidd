@@ -1,2 +1,1 @@
-minor_project_nmf
-mnist-gan
+2026-05-22
