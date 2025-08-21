@@ -1,2 +1,1 @@
-Pleased to make your acquaintance.
-Pleased to make your acquaintance.
+It was nice to have met you!
