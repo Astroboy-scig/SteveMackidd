@@ -3,3 +3,4 @@ It was lovely meeting you!
 arch-installation-script
 :robot:
 LearningGo
+:satisfied:
