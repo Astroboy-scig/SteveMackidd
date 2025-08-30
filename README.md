@@ -1,3 +1,1 @@
-:joy_cat:
-QRAndBarCodeManager
-Nice to meet you.
+9Ak53YaQ
