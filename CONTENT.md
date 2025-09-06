@@ -1,1 +1,1 @@
-:boom:
+vivantio-eolas-integration
