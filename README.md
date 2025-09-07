@@ -1,3 +1,1 @@
-ELTET
-Pleased to meet you.
-It is fun chatting with you.
+2029-03-10
