@@ -1,1 +1,1 @@
-I had a great time!
+Thank you for your visit!
