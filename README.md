@@ -1,1 +1,1 @@
-It’s lovely to meet you.
+Thank you for your visit!
