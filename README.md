@@ -1,2 +1,1 @@
-It was nice talking to you!
-:cursing_face:
+yVZng3VB
