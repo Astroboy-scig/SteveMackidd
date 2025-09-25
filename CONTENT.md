@@ -1,2 +1,1 @@
-uYXToQe8hhv
-:smiling_imp:
+It was nice talking to you.
